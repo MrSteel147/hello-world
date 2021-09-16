@@ -1,2 +1,5 @@
 # hello-world
-Hello World project to learn how GitHub works.
+
+Hello mortals.
+
+I am a budding software/game developer, please be nice!
